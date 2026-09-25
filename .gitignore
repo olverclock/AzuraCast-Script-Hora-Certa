@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.mp3
+*.m3u
+*.env
+api-key
+api-key.dpapi
+settings.json
+*.log
+backup-*/
+Gerados/
+.DS_Store
