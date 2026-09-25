@@ -4,6 +4,14 @@ Locuções de hora certa com vozes **feminina e masculina alternadas**, minuto d
 
 > **Compatibilidade:** Linux usa `hora-certa.sh`, Bash, cron e ferramentas GNU (instala dependências com `apt` em Debian/Ubuntu). Windows usa **os dois arquivos** `hora-certa.bat` + `hora-certa-windows.ps1`, PowerShell **7.2 ou superior**, FFmpeg/FFprobe e Agendador de Tarefas. A estação precisa ter a mídia acessível **no próprio host que gera os áudios**, dentro da pasta `media/` que o AzuraCast realmente indexa. Em uma VPS Linux, execute a versão Linux **na VPS**. Teste primeiro em estação de homologação.
 
+## Capturas de tela
+
+![Captura de tela 1](imagens/Captura%20de%20tela%202026-09-25%20015112.png)
+
+![Captura de tela 2](imagens/Captura%20de%20tela%202026-09-25%20015535.png)
+
+![Captura de tela 3](imagens/Captura%20de%20tela%202026-09-25%20015932.png)
+
 ## Como funciona
 
 | Etapa | Resultado |
