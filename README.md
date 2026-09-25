@@ -6,11 +6,11 @@ Locuções de hora certa com vozes **feminina e masculina alternadas**, minuto d
 
 ## Capturas de tela
 
-![Captura de tela 1](imagens/Captura%20de%20tela%202026-09-25%20015112.png)
+![Captura de tela 1](Captura%20de%20tela%202026-09-25%20015112.png)
 
-![Captura de tela 2](imagens/Captura%20de%20tela%202026-09-25%20015535.png)
+![Captura de tela 2](Captura%20de%20tela%202026-09-25%20015535.png)
 
-![Captura de tela 3](imagens/Captura%20de%20tela%202026-09-25%20015932.png)
+![Captura de tela 3](Captura%20de%20tela%202026-09-25%20015932.png)
 
 ## Como funciona
 
